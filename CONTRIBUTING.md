@@ -64,7 +64,7 @@ An easy way to avoid conflicts is to add an 'upstream' for your git repo, as oth
 
 
 ```
-git remote add upstream https://github.com/Prashant0664/Blog-website.git
+git remote add upstream 
 ```
 
 

@@ -104,9 +104,9 @@ function Navbar({ postpage }) {
         <></>}
       <div className="rocket" onClick={() => navigateToHome()}>
         <div className="img">
-          <img src="/OIG.svg" alt="HOME" />
+          <img src="/OIG.ico" alt="HOME" />
         </div>
-        <span style={{ textDecoration: "underline" }} >All Blogs</span>
+        <span style={{ textDecoration: "underline" }} >NetPearl</span>
       </div>
       <div className="search" style={{display:`${view3?"none":""}`}}>
         <div className="search_wrap">

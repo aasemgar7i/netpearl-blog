@@ -1,6 +1,6 @@
 _*NOTE: IF YOU FACE ANY ERROR, CHALLENGE OR HAVE ANY DOUBT, JUST CREATE AN PR(HIGHLY RECOMMENDED) OR EMAIL ME, I WILL RESPOND AS SOON AS POSSIBLE*_
 
-*DON'T FORGET TO `STAR` THE REPO AND FOLLOW [ME](https://github.com/prashant0664)🥹[PRASHANT0664](https://github.com/prashant0664)*
+*DON'T FORGET TO `STAR` THE REPO AND FOLLOW [ME]🥹
 
 ## To setup .env file:
 
@@ -16,7 +16,7 @@ REACT_APP_FRONTEND_URL=http://localhost:3000
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App]
 
 ## Available Scripts
 
