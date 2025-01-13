@@ -69,10 +69,10 @@ function Footer() {
           <h3>Connect With Us</h3>
           <ul>
             <li>
-              <a href="https://github.com/aasemgar7i/" className="subfot">Instagram</a>
+              <a href="https://www.facebook.com/aasem.ibrahim.ali" className="subfot">Facebook</a>
             </li>
             <li>
-              <a href="https://github.com/aasemgar7i/" className="subfot">LinkedIn</a>
+              <a href="https://www.linkedin.com/in/aasem-i-32282516b/" className="subfot">LinkedIn</a>
             </li>
             <li>
               <a href="https://github.com/aasemgar7i/" className="subfot">YouTube</a>

@@ -64,9 +64,9 @@ const Editor = ({ placeholder, prevdata, pflag }) => {
       img.src = readerEvent.target.result;
 
       img.onload = function () {
-        if (this.naturalWidth < 1000 || this.naturalHeight < 600) {
+        if (this.naturalWidth < 800 || this.naturalHeight < 400) {
           setError(
-            "Image resolution is too low, please select an image with a resolution of at least 1000x600."
+            "Image resolution is too low, please select an image with a resolution of at least 800x400."
           );
         } else {
           setimage(readerEvent.target.result);
